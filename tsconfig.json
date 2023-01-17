@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
+    "allowJs": true,
+    "emitDeclarationOnly": true,
+    "declarationMap": true,
     "target": "es5",
     "module": "commonjs",
     "lib": [
